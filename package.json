@@ -1,0 +1,25 @@
+{
+  "name": "waitinglist_bl",
+  "version": "1.0.0",
+  "description": "waitinglist_personal",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waitinglist_bl/waitinglist_bl/issues"
+  },
+  "homepage": "#"
+}
